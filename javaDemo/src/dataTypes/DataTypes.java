@@ -11,7 +11,7 @@ public class DataTypes {
          System.out.println("Hi Samil your value is true");
 	}
      
-     char g = 'a';
+     char g = 'z';
 	 int i= -8998798;
 	 short s = 56;
 	 double d = 4.355453532879;
