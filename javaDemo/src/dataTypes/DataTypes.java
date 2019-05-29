@@ -13,7 +13,7 @@ public class DataTypes {
      
      char g = 'z';
 	 int i= -1234;
-	 short s = 56;
+	 short s = 78;
 	 double d = 4.355453532879;
 	 float f = -4.7333434f;
 	 byte t = 48;
