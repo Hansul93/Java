@@ -18,6 +18,8 @@ public class DataTypes {
 	 float f = -4.7333434f;
 	 byte t = 48;
 	 long l = 43434535;
+	 String name = "Nirmala";
+	 
 	 
 	 System.out.println("char: " + g); 
      System.out.println("integer: " + i); 
@@ -26,6 +28,9 @@ public class DataTypes {
      System.out.println("float: " + f); 
      System.out.println("double: " + d); 
      System.out.println("long: " + l);
+     
+     String obj  = new String();
+     obj.toLowerCase();
 
 	
 	String value = "Shamil is an automation test engineer";

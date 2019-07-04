@@ -15,9 +15,5 @@ class MainClass
  
         System.out.print("Manager's salary : ");
         printSalary(obj1);
- 
-        MethodOverriding_Parent obj2 = new MethodOverriding_Child1();
-        System.out.print("Clerk's salary : ");
-        printSalary(obj2);
     }
 }

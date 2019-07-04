@@ -11,6 +11,7 @@ abstract class AbstractLearning {
 	public abstract void calculateArea();
 
 	public void normal() {
+		
 
 	}
 
